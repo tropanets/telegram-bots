@@ -10,13 +10,13 @@
   
 <tr>
 <td><b>№</b></td>
-<td><b>Название / name</b></td>
-<td><b>Описание проекта / Description</b></td>
+<td><b>name</b></td>
+<td><b>description</b></td>
 </tr>
 
 <tr>
 <td><b>1</b></td>
-<td><b>The closer / opener</b></td>
+<td><b>The opener</b></td>
 <td><b>Бот, который позволяет открыть и закрыть чат (группа) в определенный промежуток времени. Также бот сообщает об этом в чате.</b></td>
 </tr>
 </table>
